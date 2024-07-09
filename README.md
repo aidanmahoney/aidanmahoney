@@ -19,8 +19,19 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
 <h2>💻 Programming Languages: </h2>
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg?color=white" />
-<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg?color=white" />
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/333787b0-0a66-40d0-b99a-ecb9648097d4" />
+</a>
+<a href="">
+  <img align="left" alt="Java" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/de611d2d-d39b-4cd3-ba16-dec7ea823305" />
+</a>
+<a href="">
+  <img align="left" alt="Lua" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/b4f23450-f228-48c6-8f68-2e0dcd3a64f6" />
+</a>
+<a href="">
+  <img align="left" alt="JavaScript" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/b4cd05c-e6fe-4a4c-9023-118b84155249" />
+</a>
+
 
 <!--
 <h2> 🤳 Connect with me:</h2>
