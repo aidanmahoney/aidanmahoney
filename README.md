@@ -2,10 +2,10 @@
 <br>
 <br>
 <h2>🧑 About Me:</h2>
-📍From the New York Metropolitan Area
-<br>🏫Student at University of Wisconsin-Madison
-<br>👾Hackathon Participant
-<br>🤖Robotics Enthusiast
+ -📍From the New York Metropolitan Area
+<br> -🏫Student at University of Wisconsin-Madison
+<br> -👾Hackathon Participant
+<br> -🤖Robotics Enthusiast
 <br>
 <br>
 <h2>👨‍💻 Software Development Projects:</h2>
