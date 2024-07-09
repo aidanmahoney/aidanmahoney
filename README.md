@@ -29,22 +29,22 @@
 <br>
 <h2>💻 Programming Languages: </h2>
 <a href="https://www.python.org/">
-  <img align="left" alt="Python" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/333787b0-0a66-40d0-b99a-ecb9648097d4" />
+  <img align="left" alt="Python" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/333787b0-0a66-40d0-b99a-ecb9648097d4" />
 </a>
 <a href="https://www.java.com/en/">
-  <img align="left" alt="Java" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/de611d2d-d39b-4cd3-ba16-dec7ea823305" />
+  <img align="left" alt="Java" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/de611d2d-d39b-4cd3-ba16-dec7ea823305" />
 </a>
 <a href="https://www.lua.org/">
-  <img align="left" alt="Lua" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/b4f23450-f228-48c6-8f68-2e0dcd3a64f6" />
+  <img align="left" alt="Lua" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/b4f23450-f228-48c6-8f68-2e0dcd3a64f6" />
 </a>
 <a href="">
-  <img align="left" alt="JavaScript" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/34966371-99c8-4487-b62a-44fde9fcd96d" />
+  <img align="left" alt="JavaScript" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/34966371-99c8-4487-b62a-44fde9fcd96d" />
 </a>
 <br>
 <br>
 <h2>🤳 Connect with me:</h2>
 <a href="https://www.python.org/">
-  <img align="left" alt="Aidan Mahoney | LinkedIn" width="22px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/10765e3e-0e30-420b-95e2-d7d6341c81c5" />
+  <img align="left" alt="Aidan Mahoney | LinkedIn" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/10765e3e-0e30-420b-95e2-d7d6341c81c5" />
 </a>
 <!--
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
