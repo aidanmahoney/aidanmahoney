@@ -1,13 +1,11 @@
 <h1>Hi, I'm Aidan! <br/><a href="https://github.com/aidanmahoney">Programmer</a>, <a href="https://www.linkedin.com/in/aidan-michael-mahoney/">Computer Science Student</a>
-<br>
-<br>
+
 <h2>🧑 About Me:</h2>
  -📍From the New York Metropolitan Area
 <br> -🏫Student at University of Wisconsin-Madison
 <br> -👾Hackathon Participant
 <br> -🤖Robotics Enthusiast
-<br>
-<br>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -26,7 +24,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
-<br>
+
 <h2>💻 Programming Languages: </h2>
 <a href="https://www.python.org/">
   <img align="left" alt="Python" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/333787b0-0a66-40d0-b99a-ecb9648097d4" />
@@ -40,7 +38,6 @@
 <a href="">
   <img align="left" alt="JavaScript" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/34966371-99c8-4487-b62a-44fde9fcd96d" />
 </a>
-<br>
 <br>
 <h2>🤳 Connect with me:</h2>
 <a href="https://www.python.org/">
