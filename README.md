@@ -40,7 +40,7 @@
 </a>
 <br>
 <h2>🤳 Connect with me:</h2>
-<a href="https://www.python.org/">
+<a href="https://linkedin.com/in/aidan-michael-mahoney">
   <img align="left" alt="Aidan Mahoney | LinkedIn" width="32px" src="https://github.com/aidanmahoney/aidanmahoney/assets/149884417/10765e3e-0e30-420b-95e2-d7d6341c81c5" />
 </a>
 <!--
