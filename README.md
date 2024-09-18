@@ -26,6 +26,7 @@ In my free time, I like to play games and watch anime.
 - 📖 Education: Pursuing a B.S. in Computer Science at UW-Madison
 - 🌱 I’m currently learning ROS2 as a member of Wisconsin Robotics
 
+## Tech Badges ##
 ### Languages ###
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white)
