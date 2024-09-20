@@ -7,7 +7,7 @@ In my free time, I like to play games and watch anime.
 - 😁 Pronouns: he/him  
 - 👨‍💻 Favorite OS: Ubuntu Linux
 - 📖 Education: Pursuing a B.S. in Computer Science at UW-Madison
-- 🌱 I’m currently learning ROS2 as a member of Wisconsin Robotics
+- 🌱 I’m currently learning ROS2
 
 ## Profiles ##
 <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" alt="LinkedIn">
