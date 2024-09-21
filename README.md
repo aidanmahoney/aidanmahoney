@@ -1,5 +1,5 @@
 ## Welcome! I'm Aidan Mahoney ##
-I am a Python developer with a clear focus on contributing to innovative projects. Currently working on projects involving Mixtral, Transformers, and Docker. I want to contribute to a dynamic computing organization with the purpose of contributing to the success of said organization and help make an impact on society.
+I am a Python developer with a clear focus on contributing to innovative projects. Currently working on projects involving Transformers and Docker. I want to contribute to a dynamic computing organization with the purpose of contributing to the success of said organization and help make an impact on society.
 
 In my free time, I like to play games and watch anime.
 
