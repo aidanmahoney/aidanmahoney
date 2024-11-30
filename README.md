@@ -8,7 +8,7 @@ In my free time, I like to play games and watch anime.
 - 👨‍💻 Favorite OS: Ubuntu Linux
 - 📖 Education: Pursuing a B.S. in Computer Science at UW-Madison
 - 🌱 Learning: Vector Databases and ROS2
-- 💡 Interested in: AI and Robotics
+- 💡 Interests: AI and Robotics
 
 ## Profiles ##
 <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" alt="LinkedIn">
