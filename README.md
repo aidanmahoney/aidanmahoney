@@ -25,3 +25,8 @@ In my free time, I like to play games and watch anime.
 ![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Skills ##
+![Relational Databases]
+![Graph Databases]
+![Vector Databases]
