@@ -7,7 +7,7 @@ In my free time, I like to play games and watch anime.
 - 😁 Pronouns: he/him  
 - 👨‍💻 Favorite OS: Ubuntu Linux
 - 📖 Education: Pursuing a B.S. in Computer Science at UW-Madison
-- 🌱 Learning: Vector Databases and ROS2
+- 🌱 Learning: Retrieval-Augmented Generation (RAG)
 - 💡 Interests: AI and Robotics
 
 ## Profiles ##
