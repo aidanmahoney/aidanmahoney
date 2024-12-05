@@ -14,7 +14,7 @@ In my free time, I like to play games and watch anime.
 <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.aidanmahoney.tech/" alt="Portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=user&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=person&logoColor=white" /></a>
 <a href="mailto:aidanmahoneyemail@gmail.com" alt="Email">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
