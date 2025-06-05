@@ -6,7 +6,7 @@ In my free time, I like to play sports and watch anime.
 ## Facts About Me ##
 - 😁 Pronouns: he/him  
 - 👨‍💻 Favorite OS: Ubuntu Linux
-- 📖 Education: Pursuing a B.S. in Computer Science at UW-Madison
+- 📖 Education: Pursuing a B.S. in Computer Science at UW–Madison
 - 🌱 Learning: Swift
 - 💡 Interests: AI and Robotics
 
