@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/5N7lV8k.jpeg" alt="Legend of Zelda Banner"  />
+</p>
+
 ## Welcome! I'm Aidan Mahoney ##
 I am a Python developer learning the intricacies of Machine Learning. Currently, I am working on various projects involving Transformers, PyTorch, and Docker. I want to contribute to a dynamic computing organization with the purpose of contributing to the success of said organization and help make an impact on society.
 
@@ -54,3 +58,6 @@ In my free time, I like to play sports and watch anime.
 ![Relational Databases](https://img.shields.io/badge/Relational%20Databases-grey?style=for-the-badge&logo=mysql&logoColor=white)
 ![Graph Databases](https://img.shields.io/badge/Graph%20Databases-grey?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-grey?style=for-the-badge&logo=databricks&logoColor=white)
+
+
+
