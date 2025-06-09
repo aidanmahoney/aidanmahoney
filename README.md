@@ -66,5 +66,5 @@ In my free time, I like to play sports and watch anime.
 ![Graph Databases](https://img.shields.io/badge/Graph%20Databases-grey?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-grey?style=for-the-badge&logo=databricks&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats ##
 <img src="https://github-readme-stats.vercel.app/api?username=aidanmahoney&show_icons=true&theme=dark" alt="Aidan's GitHub Stats" />
