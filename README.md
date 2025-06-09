@@ -13,6 +13,7 @@ In my free time, I like to play sports and watch anime.
 - 📖 Education: Pursuing a B.S. in Computer Science at UW–Madison
 - 🌱 Learning: Swift
 - 💡 Interests: AI and Robotics
+- 🔥 Fun Fact: My name, Aidan, means "little fire"
 
 ## Profiles ##
 <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" alt="LinkedIn" target="_blank">
