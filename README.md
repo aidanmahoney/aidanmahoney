@@ -5,7 +5,7 @@
 ## Welcome! I'm Aidan Mahoney ##
 I am a Python developer learning the intricacies of Machine Learning. Currently, I am working on various projects involving Transformers, PyTorch, and Docker. I want to contribute to a dynamic computing organization with the purpose of contributing to the success of said organization and help make an impact on society.
 
-In my free time, I like to play sports and watch anime.
+In my free time, I like to play sports and video games.
 
 ## Facts About Me ##
 - 😁 Pronouns: he/him  
