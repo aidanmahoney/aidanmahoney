@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5N7lV8k.jpeg" alt="Legend of Zelda Banner"  />
+  <img src="https://i.imgur.com/hUWQHVZ.jpeg" alt="Legend of Zelda Banner"  />
 </p>
 
 ## Welcome! I'm Aidan Mahoney ##
