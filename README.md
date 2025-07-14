@@ -3,7 +3,7 @@
 </p>
 
 ## Welcome! I'm Aidan Mahoney ##
-I am a student at UW-Madison looking to gain a deeper understanding of what it takes to be a Computer Scientist. Currently, I am an intern working on a project, where I am designing a full AWS stack for infrastructure. I am also taking a class on Swift, and working on a project involving a Raspberry Pi 4 Web Server. Eventually, I want to contribute to a dynamic computing organization with the purpose of contributing to the success of said organization and help make an impact on society.
+I am a student at UW-Madison looking to gain a deeper understanding of what it takes to be a Computer Scientist. Currently, I am an intern at a financial firm, designing the full AWS stack for the infrastructure of a project. I am also taking a class on Swift, and working on a project involving a Raspberry Pi 4 Web Server. Eventually, I want to contribute to a dynamic computing organization with the purpose of contributing to the success of said organization and help make an impact on society.
 
 In my free time, I like to play sports and video games.
 
