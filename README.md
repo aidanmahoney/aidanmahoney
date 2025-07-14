@@ -30,4 +30,7 @@ In my free time, I like to play sports and video games.
 </a>
 
 ## GitHub Stats ##
-[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=aidanmahoney&show_icons=true&theme=dark" />
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark" />
+</p>
