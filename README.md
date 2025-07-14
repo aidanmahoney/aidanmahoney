@@ -29,42 +29,5 @@ In my free time, I like to play sports and video games.
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </a>
 
-## Programming Languages ##
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white" /></a>
-</a>
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white" /></a>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-</a>
-<a href="https://www.swift.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Swift-grey?style=for-the-badge&logo=swift&logoColor=white" /></a>
-</a>
-<a href="https://en.cppreference.com/w/c" target="_blank">
-  <img src="https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c&logoColor=white" /></a>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoColor=white" /></a>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor=white" /></a>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-</a>
-
-## Databases ##
-![Relational Databases](https://img.shields.io/badge/Relational%20Databases-grey?style=for-the-badge&logo=mysql&logoColor=white)
-![Graph Databases](https://img.shields.io/badge/Graph%20Databases-grey?style=for-the-badge&logo=neo4j&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-grey?style=for-the-badge&logo=databricks&logoColor=white)
-
 ## GitHub Stats ##
-<img src="https://github-readme-stats.vercel.app/api?username=aidanmahoney&show_icons=true&theme=dark" alt="Aidan's GitHub Stats" />
+[![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
