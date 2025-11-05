@@ -30,7 +30,7 @@ In my free time, I like to play sports and video games.
 </a>
 
 ## GitHub Stats ##
-<p align="center">
-  <img width="49%" height="180" !important src="https://github-readme-stats.vercel.app/api?username=aidanmahoney&show_icons=true&theme=dark" />
-  <img width="49%" height="180" !important src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark" />
-</p>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=aidanmahoney&show_icons=true&theme=dark" />
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark" />
+</div>
