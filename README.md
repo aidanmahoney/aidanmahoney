@@ -15,19 +15,19 @@ In my free time, I like to play sports and video games.
 - 💡 Interests: AI and Robotics
 - 🔥 Fun Fact: My name, Aidan, means "little fire"
 
-## Profiles ##
+## Profiles
+
 <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" alt="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</a>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <a href="https://www.aidanmahoney.net/" alt="Portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</a>
+  <img src="https://img.shields.io/badge/-Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+
 <a href="mailto:aidanmahoneyemail@gmail.com" alt="Email" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</a>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <a href="https://x.com/altumns" alt="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</a>
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 ## GitHub Stats ##
 <div style="display: flex; gap: 20px;">
