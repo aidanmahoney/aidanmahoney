@@ -32,6 +32,6 @@ In my free time, I like to play sports and video games.
 ## GitHub Stats ##
 <div style="display: flex; gap: 20px;">
   <div style="display: flex; align-items: center;">
-    <img width="100%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark&hide_border=true" style="object-fit: contain;" />
+    <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidanmahoney&layout=compact&theme=dark&hide_border=true" style="object-fit: contain;" />
   </div>
 </div>
