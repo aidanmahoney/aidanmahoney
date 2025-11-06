@@ -15,21 +15,22 @@ In my free time, I like to play sports and video games.
 - 💡 Interests: AI and Robotics
 - 🔥 Fun Fact: My name, Aidan, means "little fire"
 
-## Profiles
+## Profiles ##
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" target="_blank" style="background: none; border: none; cursor: pointer; padding: 0;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease, box-shadow 0.2s ease; display: block;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)';" />
   </a>
-  <a href="https://www.aidanmahoney.net/" target="_blank" style="background: none; border: none; cursor: pointer; padding: 0;">
-    <img src="https://img.shields.io/badge/-Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://www.aidanmahoney.net/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease, box-shadow 0.2s ease; display: block;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)';" />
   </a>
-  <a href="mailto:aidanmahoneyemail@gmail.com" style="background: none; border: none; cursor: pointer; padding: 0;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:aidanmahoneyemail@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease, box-shadow 0.2s ease; display: block;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)';" />
   </a>
-  <a href="https://x.com/altumns" target="_blank" style="background: none; border: none; cursor: pointer; padding: 0;">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/altumns" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" style="border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease, box-shadow 0.2s ease; display: block;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)';" />
   </a>
 </div>
+
 
 ## GitHub Stats ##
 <div style="display: flex; gap: 20px;">
