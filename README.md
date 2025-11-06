@@ -16,23 +16,19 @@ In my free time, I like to play sports and video games.
 - 🔥 Fun Fact: My name, Aidan, means "little fire"
 
 ## Profiles
-
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <button onclick="window.open('https://www.linkedin.com/in/aidan-michael-mahoney/', '_blank')" style="background: none; border: none; cursor: pointer; padding: 0;">
+  <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" target="_blank" style="background: none; border: none; cursor: pointer; padding: 0;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </button>
-
-  <button onclick="window.open('https://www.aidanmahoney.net/', '_blank')" style="background: none; border: none; cursor: pointer; padding: 0;">
+  </a>
+  <a href="https://www.aidanmahoney.net/" target="_blank" style="background: none; border: none; cursor: pointer; padding: 0;">
     <img src="https://img.shields.io/badge/-Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </button>
-
-  <button onclick="window.location.href='mailto:aidanmahoneyemail@gmail.com'" style="background: none; border: none; cursor: pointer; padding: 0;">
+  </a>
+  <a href="mailto:aidanmahoneyemail@gmail.com" style="background: none; border: none; cursor: pointer; padding: 0;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </button>
-
-  <button onclick="window.open('https://x.com/altumns', '_blank')" style="background: none; border: none; cursor: pointer; padding: 0;">
+  </a>
+  <a href="https://x.com/altumns" target="_blank" style="background: none; border: none; cursor: pointer; padding: 0;">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </button>
+  </a>
 </div>
 
 ## GitHub Stats ##
