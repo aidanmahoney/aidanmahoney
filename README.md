@@ -31,7 +31,6 @@ In my free time, I like to play sports and video games.
   </a>
 </div>
 
-
 ## GitHub Stats ##
 <div style="display: flex; gap: 20px;">
   <div style="display: flex; align-items: center;">
