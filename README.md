@@ -17,7 +17,7 @@ In my free time, I like to play sports and video games.
 
 ## Profiles ##
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/aidan-michael-mahoney/" target="_blank" style="text-decoration: none; display: inline-block; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)';">
+  <a href="https://www.linkedin.com/in/aidanmmahoney/" target="_blank" style="text-decoration: none; display: inline-block; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.25)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.15)';">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="display: block; border-radius: 6px;" />
   </a>
   
