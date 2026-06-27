@@ -3,7 +3,7 @@
 </p>
 
 ## Welcome! I'm Aidan Mahoney ##
-I am a student at UW-Madison looking to gain a deeper understanding of what it takes to be a Computer Scientist. Currently, I am interning at the Johns Hopkins Applied Physics Laboratory, working on data management for unmanned underwater vehicles (UUVs). I am also a research assistant in the People and Robots Laboratory at UW-Madison, developing an end-user robot programming platform in Kotlin. Eventually, I want to be able to contribute to the field of autonomous systems and robotics with the purpose of making an impact on society.
+I am a Computer Science student at UW-Madison passionate about bridging the gap between the virtual and physical environments through robotics. Currently, I am interning at the Johns Hopkins Applied Physics Laboratory, where I architect data management pipelines for unmanned underwater vehicles (UUVs). I also serve as a research assistant in the UW-Madison People and Robots Laboratory, and am developing an end-user robot programming platform in Kotlin. Eventually, I want to be able to contribute to the field of autonomous systems and robotics with the purpose of making an impact on society.
 
 In my free time, I like to play sports and video games.
 
