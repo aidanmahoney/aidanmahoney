@@ -9,7 +9,7 @@ In my free time, I like to play sports and video games.
 
 ## Facts About Me ##
 - 😁 Pronouns: he/him  
-- 👨‍💻 Favorite OS: Ubuntu Linux
+- 👨‍💻 Favorite OS: Ubuntu 22.04 LTS
 - 📖 Education: Pursuing a B.S. in Computer Science at UW–Madison
 - 🌱 Learning: C++ and ROS2
 - 🤖 Interests: Autonomous Systems and Robotics
