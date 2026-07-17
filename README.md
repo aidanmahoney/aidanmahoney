@@ -12,7 +12,7 @@ In my free time, I like to play sports and video games.
 - 👨‍💻 Favorite OS: Ubuntu 22.04 LTS
 - 📖 Education: Pursuing a B.S. in Computer Science at UW–Madison
 - 🌱 Learning: C++ & ROS2
-- 🤖 Interests: Autonomous Systems & Robotics
+- 🤖 Interests: Infrastructure, AI, Autonomous Systems & Robotics
 - 🔥 Fun Fact: My name, Aidan, means "little fire"
   
 ## Tech Stack ##
