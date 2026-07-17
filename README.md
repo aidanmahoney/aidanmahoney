@@ -24,6 +24,10 @@ In my free time, I like to play sports and video games.
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%23000080.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+### Data Analysis & Processing
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### Robotics & ML
 ![ROS2](https://img.shields.io/badge/ros2-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
