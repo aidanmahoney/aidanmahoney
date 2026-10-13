@@ -3,7 +3,7 @@
 </p>
 
 ## Welcome! I'm Aidan Mahoney ##
-I am a Computer Science student at UW-Madison passionate about bridging the gap between virtual and physical environments through robotics and autonomous systems. Currently, I work as a Robotics Validation Engineer Intern at Figure AI, where I push the boundaries of autonomous hardware to help give AI a body. Previously, I interned at Johns Hopkins Applied Physics Laboratory, developing data management pipelines for unmanned underwater vehicles (UUVs). At UW-Madison, I conduct research in the People and Robots Laboratory, where I am developing an end-user robot programming platform in Kotlin, and contribute to building a self-driving car as a member of Wisconsin Autonomous’s controls subteam. My goal is to develop autonomous systems that operate reliably and safely in the real world and create meaningful a impact on society.
+I am a Computer Science student at UW-Madison passionate about bridging the gap between virtual and physical environments through robotics and autonomous systems. Currently, I work as a Robotics Validation Engineer Intern at Figure AI, where I push the boundaries of autonomous hardware to help give AI a body. Previously, I interned at Johns Hopkins Applied Physics Laboratory, developing data management pipelines for unmanned underwater vehicles (UUVs). At UW-Madison, I conduct research in the People and Robots Laboratory, where I am developing an end-user robot programming platform in Kotlin, and contribute to building a self-driving car as a member of Wisconsin Autonomous’s controls subteam. My goal is to develop autonomous systems that operate reliably and safely in the real world and create a meaningful impact on society.
 
 In my free time, I like to play sports and video games.
 
